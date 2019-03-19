@@ -1,0 +1,97 @@
+/* Header is complete*/
+
+h1 {
+    font-size: 25px;
+    padding: 20px;
+    background-color: skyblue;
+    color: white;
+    margin-right: 1280px;
+    text-align: center;
+}
+
+/* Paragraph is complete */
+
+p {
+    font-size: 16px;
+    background-color: rgb(192, 80, 192);
+    width: 320px;
+    padding: 30px;
+    color: black;
+    margin-top: 10px;
+    margin-right: 1200px;
+    text-align: center;
+}
+
+/* box1 is complete */
+
+#box1 {
+    font-size: 50px;
+    background-color: rgb(245, 143, 231);
+    margin-top: 15px;
+    box-sizing: content-box;
+    height: 100px;
+    width: 200px;
+    float: left;
+}
+
+/* box2 is complete */
+#box2 {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    height: 75px;
+    width: 50px;
+    background-color: rgb(245, 143, 231);
+    float: right;
+    margin-top: 15px;
+    margin-right: 1250px;
+}
+
+/* h2 is complete */
+
+h2 {
+    color: black;
+    font-size: 12px;
+    text-align: left;
+}
+
+/* Body is complete */
+
+body {
+    background-image: url("../images/diamondsbackground.jpg");
+    background-repeat: repeat;
+    
+}
+
+/* box3 is complete */
+
+#box3 {
+    margin-top: 30px;
+    height: 20px;
+    width: 200px;
+    background-color: rgb(245, 143, 231);
+    margin-right: 1200px;
+    color: white;
+    font-size: 12px;
+    clear: both;
+}
+
+/* box4 is complete */
+
+#box4 {
+    height: 100px;
+    width: 200px;
+    background-color: rgb(245, 143, 231);
+    margin-right: 1500px;
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+/* images are done */
+
+img{
+    height: 70px;
+    width: 70px;
+    margin-top: 20px;
+}
